@@ -1,0 +1,9 @@
+com\example\WorldBookTranslatorGUI$1.class
+com\example\WorldBookTranslatorGUI.class
+com\example\CacheManager$CacheData.class
+com\example\OpenAITranslator.class
+com\example\CacheManager.class
+com\example\JsonProcessor.class
+com\example\ConfigManager.class
+com\example\WorldBookTranslator.class
+com\example\TextSplitter.class
